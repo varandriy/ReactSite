@@ -1,0 +1,19 @@
+
+.item {
+  color: white;
+  font-size: 15px;
+  margin-left: 20px;
+}
+.item img{
+  width: 80px;
+  height: 80px;
+  border-radius: 20px;
+
+}
+.posts {
+  position: relative;
+  /* background-color: black; */
+  bottom: 30px;
+  left: 15px;
+
+}
